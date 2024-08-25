@@ -5,7 +5,6 @@ plugins {
 }
 
 android {
-    namespace = "io.kabir.earningads"
     compileSdk = 34
 
     defaultConfig {
